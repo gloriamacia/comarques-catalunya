@@ -22,6 +22,5 @@ def index():
     folium.LayerControl().add_to(folium_map)
     return render_template('index.html', folium_map=folium_map._repr_html_())
 
-
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+# if __name__ == '__main__':
+#     app.run(debug=True, port=5000)
