@@ -1,0 +1,817 @@
+Regió Sanitària,Comarca,Municipi,Hospital,Via,Nom Via,Número,Codi Postal,Telèfon,Horari,input,address,lat,lng
+Alt Pirineu i Aran,Alt Urgell,La Seu d'Urgell ,Fundació Sant Hospital,PS ,JOAN BRUDIEU,8,25700,973 35 00 50,Urgències i emergències 24 hores.,"Fundació Sant Hospital, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, La Seu d'Urgell , Spain","25700 La Seu d'Urgell, Lleida, Spain",42.3500446,1.4676394
+Alt Pirineu i Aran,Cerdanya,Puigcerdà,AECT Hospital de Cerdanya,CM,ANTIC D'UR,31,17520,972 114 090,Urgències i emergències 24 hores.,"AECT Hospital de Cerdanya, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, Puigcerdà, Spain","17520 Puigcerdà, Girona, Spain",42.4318013,1.9245812
+Alt Pirineu i Aran,Pallars Jussà,Tremp,Hospital Comarcal del Pallars,CR,PAU CASALS,5,25620,973 65 22 55,Urgències i emergències 24 hores.,"Hospital Comarcal del Pallars, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, Tremp, Spain","25620 Tremp, Lleida, Spain",42.1669147,0.8949296
+Alt Pirineu i Aran,Val d'Aran,VIELHA E MIJARAN,Espitau Val d'Aran,CR,ESPITAU,8,25530,973 64 31 46,Urgències i emergències 24 hores.,"Espitau Val d'Aran, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VIELHA E MIJARAN, Spain","Carrèr Espitau, 25530 Vielha, Lleida, Spain",42.7017252,0.7972997
+Barcelona,Alt Penedès,VILAFRANCA DEL PENEDÈS,Hospital Comarcal de l'Alt Penedès,CR,L'ESPIRALL,61,08720,93 818 04 40,Urgències i emergències 24 hores.,"Hospital Comarcal de l'Alt Penedès, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VILAFRANCA DEL PENEDÈS, Spain","Alt Penedès, Barcelona, Spain",41.3884627,1.714958
+Barcelona,Baix Llobregat,ESPLUGUES DE LLOBREGAT,Hospital Sant Joan de Déu d'Esplugues,PG,SANT JOAN DE DÉU,2,08950,,Urgències i emergències 24 hores.,"Hospital Sant Joan de Déu d'Esplugues, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, ESPLUGUES DE LLOBREGAT, Spain","Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona, Spain",41.3842658,2.1019417
+Barcelona,Baix Llobregat,MARTORELL,Hospital Sant Joan de Déu de Martorell,AV,MANCOMUNITATS COMARCALS,1,08760 ,93 774 20 20,Urgències i emergències 24 hores.,"Hospital Sant Joan de Déu de Martorell, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, MARTORELL, Spain","08760 Martorell, Barcelona, Spain",41.4795041,1.923048
+Barcelona,Baix Llobregat, SANT BOI DE LLOBREGAT,Hospital General. Parc Sanitari Sant Joan de Déu,CR,CAMÍ VELL DE LA COLÒNIA,25,08830,93 661 52 08,Urgències i emergències 24 hores.,"Hospital General. Parc Sanitari Sant Joan de Déu, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object,  SANT BOI DE LLOBREGAT, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Barcelona,Baix Llobregat,SANT JOAN DESPÍ,Hospital de Sant Joan Despí Moisès Broggi,CR,JACINT VERDAGUER,90,08970,93 553 12 00,Urgències i emergències 24 hores.,"Hospital de Sant Joan Despí Moisès Broggi, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SANT JOAN DESPÍ, Spain","C. d'Oriol Martorell, 12, 08970 Sant Joan Despí, Barcelona, Spain",41.3733164,2.0725157
+Barcelona,Baix Llobregat,VILADECANS,Hospital de Viladecans,AV,GAVÀ,38,08840,93 659 01 11,Urgències i emergències 24 hores.,"Hospital de Viladecans, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VILADECANS, Spain","Av. de Gavà, 38, 08840 Viladecans, Barcelona, Spain",41.31245819999999,2.0146536
+Barcelona,Barcelonès,BADALONA,Hospital Municipal Badalona,CR,VIA AUGUSTA,9-13,08911,93 464 83 00,Urgències i emergències 24 hores.,"Hospital Municipal Badalona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BADALONA, Spain","Via Augusta, 9-13, 08911 Badalona, Barcelona, Spain",41.4504934,2.245607
+Barcelona,Barcelonès,BADALONA,Hospital Universitari Germans Trias i Pujol de Badalona,CT,DE CANYET,S/N,08916,93 465 12 00,Urgències i emergències 24 hores.,"Hospital Universitari Germans Trias i Pujol de Badalona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BADALONA, Spain","Carretera de Canyet, s/n, 08916 Badalona, Barcelona, Spain",41.481187,2.2375473
+Barcelona,Barcelonès,BADALONA,ICO Badalona,CT,DE CANYET,S/N,08917,93 497 87 10,Urgències i emergències 24 hores.,"ICO Badalona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BADALONA, Spain","Badalona, Barcelona, Spain",41.446964,2.2449607
+Barcelona,Barcelonès,BADALONA,Institut Guttmann,CT,DE CANYET,S/N,08918,93 497 77 00,Urgències i emergències 24 hores.,"Institut Guttmann, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BADALONA, Spain","Camí de Can Ruti, s/n, 08916 Badalona, Barcelona, Spain",41.4786253,2.2368877
+Barcelona,Barcelonès,BARCELONA,Fundació Puigvert/Iuna,CR,CARTAGENA,340,08025,93 416 97 00,Urgències i emergències 24 hores.,"Fundació Puigvert/Iuna, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Carrer de Cartagena, 340, 350, 08025 Barcelona, Spain",41.4127986,2.1724597
+Barcelona,Barcelonès,BARCELONA,Hospital Clínic de Barcelona,CR,VILLAROEL,170,08036, 93 227 54 00,Urgències i emergències 24 hores.,"Hospital Clínic de Barcelona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,BARCELONA,"Hospital Clínic de Barcelona, seu Sabino de Arana",CR,SABINO DE ARANA,1,08028,93 227 56 00,"Urgències i emergències 24 hores d'obstetrícia, ginecologia i oftalmologia.","Hospital Clínic de Barcelona, seu Sabino de Arana, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,BARCELONA,Hospital Dos de Maig,CR,DOS DE MAIG,301,08025,93 507 27 00,"Urgències i emergències 24 hores al CUAP Dos de Maig, en el mateix centre.","Hospital Dos de Maig, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,BARCELONA,Hospital Plató,CR,PLATÓ,21,08006,93 306 99 00,"Urgències i emergències 24 hores a l'Hospital-CUAP Plató, en el mateix centre.","Hospital Plató, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Carrer de Plató, 21, 08006 Barcelona, Spain",41.40119199999999,2.1422907
+Barcelona,Barcelonès,BARCELONA,Hospital Sant Rafael,PS ,VALL D'HEBRON,107-117,08035 ,93 211 25 08,Atenció d'urgències als Hospitals de la Vall d'Hebron.,"Hospital Sant Rafael, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,BARCELONA,Hospital Universitari General de la Vall d'Hebron,PS ,VALL D'HEBRON,119-129,08035,93 489 30 00,Urgències i emergències 24 hores.,"Hospital Universitari General de la Vall d'Hebron, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","La Vall d'Hebron, 08035 Barcelona, Spain",41.4302194,2.1480621
+Barcelona,Barcelonès,BARCELONA,Hospital Universitari Maternoinfantil de la Vall d'Hebron,PS ,VALL D'HEBRON,119-130,08036,93 489 30 00,Urgències i emergències 24 hores.,"Hospital Universitari Maternoinfantil de la Vall d'Hebron, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","La Vall d'Hebron, 08035 Barcelona, Spain",41.4302194,2.1480621
+Barcelona,Barcelonès,BARCELONA,Hospital Universitari Sagrat Cor,CR,VILADOMAT,288,08029,93 322 11 11,"Urgències i emergències 24 hores al CUAP Sagart Cor, en el mateix centre.","Hospital Universitari Sagrat Cor, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","C. de Viladomat, 288, 08029 Barcelona, Spain",41.3889084,2.1456527
+Barcelona,Barcelonès,BARCELONA,Hospital Universitari de Traumatologia i Rehabilitació de la Vall d'Hebron,PS ,VALL D'HEBRON,119-129,08035,93 489 30 00,Urgències i emergències 24 hores.,"Hospital Universitari de Traumatologia i Rehabilitació de la Vall d'Hebron, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Barcelona,Barcelonès,BARCELONA,Hospital de l'Esperança,CR,SANT JOSEP DE LA MUNTANYA,12,08024,93 367 41 00,Urgències i emergències 24 hores al CUAP Gràcia.,"Hospital de l'Esperança, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,BARCELONA,Hospital de la Santa Creu i Sant Pau,CR,SANT QUINTÍ,89,08041,93 553 71 60,Urgències i emergències 24 hores.,"Hospital de la Santa Creu i Sant Pau, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Carrer de Sant Quintí, 89, 08041 Barcelona, Spain",41.4136997,2.174314
+Barcelona,Barcelonès,BARCELONA,Hospital del Mar,PS ,MARÍTIM DE LA BARCELONETA,25-29,08003,93 248 30 00,Urgències i emergències 24 hores.,"Hospital del Mar, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BARCELONA, Spain","Barcelona, Spain",41.3873974,2.168568
+Barcelona,Barcelonès,L'HOSPITALET DE LLOBREGAT,Hospital General de l'Hospitalet,CR,JOSEP MOLINS,29-41,08906,93 440 75 00,Urgències i emergències 24 hores.,"Hospital General de l'Hospitalet, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, L'HOSPITALET DE LLOBREGAT, Spain","L'Hospitalet de Llobregat, Barcelona, Spain",41.3661865,2.1164942
+Barcelona,Barcelonès,L'HOSPITALET DE LLOBREGAT,Hospital Universitari de Bellvitge,CR,FEIXA LLARGA,S/N,08907,93 260 75 00,Urgències i emergències 24 hores.,"Hospital Universitari de Bellvitge, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, L'HOSPITALET DE LLOBREGAT, Spain","Bellvitge, 08907 L'Hospitalet de Llobregat, Barcelona, Spain",41.3520453,2.1087691
+Barcelona,Barcelonès,L'HOSPITALET DE LLOBREGAT,ICO L'Hospitalet,AV,DE LA GRANVIA DE L'HOSPITALET,199,08908,93 260 77 33,Atenció d'urgències a l'Hospital de Bellvitge,"ICO L'Hospitalet, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, L'HOSPITALET DE LLOBREGAT, Spain","L'Hospitalet de Llobregat, Barcelona, Spain",41.3661865,2.1164942
+Barcelona,Barcelonès,SANTA COLOMA DE GRAMENET,Fundació Hospital de l'Esperit Sant,AV,MOSSÈN JOSEP PONS I ROBADÀ,S/N,08923,93 386 02 02, Urgències i emergències 24 hores.,"Fundació Hospital de l'Esperit Sant, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SANTA COLOMA DE GRAMENET, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Barcelona,Garraf,SANT PERE DE RIBES,Hospital Residència Sant Camil,RD,SANT CAMIL,S/N,08810,93 896 00 25, Urgències i emergències 24 hores.,"Hospital Residència Sant Camil, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SANT PERE DE RIBES, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Barcelona,Garraf,VILANOVA I LA GELTRÚ,Hospital Comarcal Sant Antoni Abat,CR,SANT JOSEP,21-23,08800,93 893 16 16, Urgències i emergències 24 hores.,"Hospital Comarcal Sant Antoni Abat, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VILANOVA I LA GELTRÚ, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Barcelona,Maresme,Mataró,Hospital de Mataró,CT,CIRERA,S/N,08304,93 741 77 00,Urgències i emergències 24 hores.,"Hospital de Mataró, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, Mataró, Spain","Carr. de Cirera, 230, 08304 Mataró, Barcelona, Spain",41.5561131,2.4297714
+Barcelona,Vallès Occidental,SABADELL,Hospital de Sabadell,LL,PARC TAULÍ,S/N,08208,93 723 10 10,Urgències i emergències 24 hores.,"Hospital de Sabadell, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SABADELL, Spain","Sabadell, Barcelona, Spain",41.5462745,2.1086131
+Barcelona,Vallès Occidental,TERRASSA,Hospital Universitari Mútua Terrassa,PL,DOCTOR ROBERT,5,08221,93 736 50 50,Urgències i emergències 24 hores.,"Hospital Universitari Mútua Terrassa, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TERRASSA, Spain","Terrassa, Barcelona, Spain",41.563211,2.0088747
+Barcelona,Vallès Occidental,TERRASSA,Hospital de Terrassa,CT,TORREBONICA,S/N,08227,93 731 00 07,Urgències i emergències 24 hores.,"Hospital de Terrassa, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TERRASSA, Spain","Carr. Torrebonica, s/n, 08227 Terrassa, Barcelona, Spain",41.556909,2.0526339
+Barcelona,Vallès Oriental,GRANOLLERS,Hospital General de Granollers,CR,FRANCESC RIBAS,62,08402, 93 842 50 00,Urgències i emergències 24 hores.,"Hospital General de Granollers, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, GRANOLLERS, Spain","Granollers, Barcelona, Spain",41.60619270000001,2.2870889
+Barcelona,Vallès Oriental,MOLLET DEL VALLÈS,Hospital de Mollet,RD,PINETONS,6-8,08100,93 576 03 00,Urgències i emergències 24 hores.,"Hospital de Mollet, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, MOLLET DEL VALLÈS, Spain","Mollet del Vallès, Barcelona, Spain",41.542551,2.2113698
+Barcelona,Vallès Oriental,SANT CELONI,Hospital de Sant Celoni,AV,DE L'HOSPITAL,19,08470,93 867 06 17,Urgències i emergències 24 hores.,"Hospital de Sant Celoni, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SANT CELONI, Spain","08470 Sant Celoni, Barcelona, Spain",41.6897479,2.4892465
+Camp de Tarragona,Alt Camp,VALLS,Pius Hospital de Valls,PL,SANT FRANCESC,1,43800,977 61 30 00,Urgències i emergències 24 hores.,"Pius Hospital de Valls, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VALLS, Spain","43800 Valls, Tarragona, Spain",41.2854449,1.2494589
+Camp de Tarragona,Baix Camp,REUS,Centre MQ Reus,CR,ANTONI GAUDÍ,26,43203,977 01 08 00,Atenció d'urgències a Hospital Universitari de Sant Joan de Reus.,"Centre MQ Reus, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, REUS, Spain","Carrer del Vapor Nou, Carrer d'Antoni Gaudí, 26, 43201 Reus, Tarragona, Spain",41.1558833,1.1045309
+Camp de Tarragona,Baix Camp,REUS,Hospital Universitari de Sant Joan de Reus,AV,JOSEP LAPORTE,2,43204,977 33 00 03,Urgències i emergències 24 hores.,"Hospital Universitari de Sant Joan de Reus, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, REUS, Spain","Reus, Tarragona, Spain",41.1498259,1.1055321
+Camp de Tarragona,Baix Penedès,EL VENDRELL,Hospital del Vendrell,CT,BARCELONA,S/N,43700,977 25 79 00,Urgències i emergències 24 hores.,"Hospital del Vendrell, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, EL VENDRELL, Spain","El Vendrell, Tarragona, Spain",41.2196699,1.534307
+Camp de Tarragona,Tarragonès,TARRAGONA,Hospital Sant Pau i Santa Tecla,RB,VELLA,14,43003,977 25 99 00,Urgències i emergències 24 hores.,"Hospital Sant Pau i Santa Tecla, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TARRAGONA, Spain","Carrer de Sant Quintí, 89, 08041 Barcelona, Spain",41.4136997,2.174314
+Camp de Tarragona,Tarragonès,TARRAGONA,Hospital Universitari Joan XXIII de Tarragona,CR,DOCTOR MALLAFRÉ GUASCH,4,43005,977 29 58 00,Urgències i emergències 24 hores.,"Hospital Universitari Joan XXIII de Tarragona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TARRAGONA, Spain","Tarragona, Spain",41.1188827,1.2444909
+Catalunya Central,Anoia,IGUALADA,Hospital d'Igualada,AV,CATALUNYA,11,08700,93 807 55 00,Urgències i emergències 24 hores.,"Hospital d'Igualada, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, IGUALADA, Spain","Igualada, Barcelona, Spain",41.5847817,1.6226538
+Catalunya Central,Bages,MANRESA,Hospital Sant Joan de Déu de Manresa,CR,DOCTOR JOAN SOLER,S/N,08243,93 874 21 12,Urgències i emergències 24 hores.,"Hospital Sant Joan de Déu de Manresa, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, MANRESA, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Catalunya Central,Berguedà,BERGA,Hospital Comarcal Sant Bernabé,CT,DE RIBES,S/N,08600,93 824 34 00,Urgències i emergències 24 hores.,"Hospital Comarcal Sant Bernabé, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BERGA, Spain","Kenova, WV 25530, USA",38.3430456,-82.5510469
+Catalunya Central,Osona,VIC,Hospital Universitari de Vic,CR,"DE FRANCESC PLA ""EL VIGATÀ""",1,08500,93 889 11 11,Urgències i emergències 24 hores.,"Hospital Universitari de Vic, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, VIC, Spain","Carrer de Francesc Pla el Vigatà, 1, 08500 Vic, Barcelona, Spain",41.936675,2.2602905
+Girona,Alt Empordà,FIGUERES,Hospital de Figueres,RD,RECTOR AROLAS,S/N,17600,972 50 14 00,Urgències i emergències 24 hores.,"Hospital de Figueres, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, FIGUERES, Spain","Ronda del Rector Arolas, s / n, 17600 Figueres, Girona, Spain",42.2683545,2.9536167
+Girona,Baix Empordà,PALAMÓS,Hospital de Palamós,CR,HOSPITAL,36,17230,972 60 01 60,Urgències i emergències 24 hores.,"Hospital de Palamós, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, PALAMÓS, Spain","Carrer Hospital, 36, 17230 Palamós, Girona, Spain",41.8529099,3.1317395
+Girona,Garrotxa,OLOT,Hospital d'Olot i Comarcal de la Garrotxa,AV,PAÏSOS CATALANS,86,17800,972 26 18 00,Urgències i emergències 24 hores.,"Hospital d'Olot i Comarcal de la Garrotxa, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, OLOT, Spain","Avinguda dels Països Catalans, 86, 17800 Olot, Girona, Spain",42.1876367,2.4675269
+Girona,Gironès,GIRONA,Clínica Girona,CR,JOAN MARAGALL,26,17002,972 20 45 00,Atenció d'urgències al CUAP Güell o l'Hospital Universitari de Girona Doctor Josep Trueta.,"Clínica Girona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, GIRONA, Spain","Girona, Spain",41.9794005,2.8214264
+Girona,Gironès,GIRONA,Hospital Universitari Doctor Josep Trueta de Girona,AV,FRANÇA,S/N,17007,972 94 02 00,Urgències i emergències 24 hores.,"Hospital Universitari Doctor Josep Trueta de Girona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, GIRONA, Spain","Avinguda de França, S/N, 17007 Girona, Spain",41.9975709,2.8199659
+Girona,Gironès,GIRONA,ICO Girona,AV,FRANÇA,S/N,17007,972 22 58 33,Atenció d'urgències a l'Hospital Universitari de Girona Doctor Josep Trueta.,"ICO Girona, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, GIRONA, Spain","Girona, Spain",41.9794005,2.8214264
+Girona,Gironès,SALT,Hospital Santa Caterina,CR,DOCTOR CASTANY,S/N,17190,972 18 25 00,Urgències i emergències 24 hores.,"Hospital Santa Caterina, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, SALT, Spain","Carrer del Dr. Castany, s/n, 17190 Salt, Girona, Spain",41.9701295,2.7983408
+Girona,Maresme,CALELLA,Hospital Comarcal Sant Jaume de Calella,CR,SANT JAUME,209-217,08370,93 769 02 01,Urgències i emergències 24 hores.,"Hospital Comarcal Sant Jaume de Calella, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, CALELLA, Spain","Carrer de Sant Jaume, 209, 217, 08370 Calella, Barcelona, Spain",41.61506929999999,2.6572059
+Girona,Pla de l'Estany,BANYOLES,Clínica Salus Infirmorum,AV,MOSSÈN LLUÍS CONSTANS,130,17820,972 57 02 08,"Atenció d'urgències de 20 a 8 hores, durant el dia cal adreçar-se al CAP Banyoles","Clínica Salus Infirmorum, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BANYOLES, Spain","Passeig de Mossèn Lluís Constans, 130, 17820 Banyoles, Girona, Spain",42.1147322,2.7612055
+Girona,Ripollès,CAMPDEVÀNOL,Hospital de Campdevànol,CT,DE GOMBRÈN,20,17530,972 73 00 13,Urgències i emergències 24 hores.,"Hospital de Campdevànol, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, CAMPDEVÀNOL, Spain","17530 Campdevànol, Girona, Spain",42.2219838,2.1683571
+Girona,Selva,BLANES,Hospital Comarcal de Blanes,CT,CALA SANT FRANCESC,5,17300,972 35 32 64,Urgències i emergències 24 hores.,"Hospital Comarcal de Blanes, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, BLANES, Spain","Carrer Accés Cala Sant Francesc, 5, 17300 Blanes, Girona, Spain",41.6874368,2.8019563
+Lleida,Segrià,LLEIDA,Clínica NovAliança,AV,PRAT DE LA RIBA,79-81,25004,973 23 29 43,Atenció d'urgències al CUAP Lleida o a l'Hospital Arnau de Vilanova.,"Clínica NovAliança, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, LLEIDA, Spain","Lleida, Spain",41.6175899,0.6200146
+Lleida,Segrià,LLEIDA,Hospital Santa Maria,AV,ALCALDE ROVIRA ROURE,44,25198,973 72 72 22,"Atenció d'urgències només de salut mental, per a tota la resta d'urgències adreceu-vos al CUAP Lleida o a l'Hospital Arnau de Vilanova.","Hospital Santa Maria, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, LLEIDA, Spain","Santa Maria, CA, USA",34.9530337,-120.4357191
+Lleida,Segrià,LLEIDA,Hospital Universitari Arnau de Vilanova de Lleida,AV,ALCALDE ROVIRA ROURE,80,25198,973 24 81 00,Urgències i emergències 24 hores.,"Hospital Universitari Arnau de Vilanova de Lleida, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, LLEIDA, Spain","Av. Alcalde Rovira Roure, 80, 25198 Lleida, Spain",41.6267005,0.6133791
+Terres de l'Ebre,Baix Ebre,TORTOSA,Clínica Terres de l'Ebre,PL,DE L'1 D'OCTUBRE,6-8,43500,977 58 82 00,Urgències i emergències 24 hores.,"Clínica Terres de l'Ebre, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TORTOSA, Spain","Plaça 1 d'octubre, 6, 8, 43500 Tortosa, Tarragona, Spain",40.8138312,0.5162803
+Terres de l'Ebre,Baix Ebre,TORTOSA,Hospital Verge de la Cinta de Tortosa,CR,ESPLANETES,44-58,43500,977 51 91 00,Urgències i emergències 24 hores.,"Hospital Verge de la Cinta de Tortosa, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, TORTOSA, Spain","Carrer de les Esplanetes, 44, 58, 43500 Tortosa, Tarragona, Spain",40.81164,0.5242
+Terres de l'Ebre,Montsià,AMPOSTA,Hospital Comarcal d'Amposta,CR,JACINT VERDAGUER,11,43870,977 70 00 50,Urgències i emergències 24 hores.,"Hospital Comarcal d'Amposta, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, AMPOSTA, Spain","Carrer Jacint Verdaguer, 11, 13, 43870 Amposta, Tarragona, Spain",40.70892,0.578303
+Terres de l'Ebre,Ribera d'Ebre,MÓRA D'EBRE,Hospital Comarcal Móra d'Ebre,CR,BENET MESSEGUER,S/N,43740,977 40 16 74,Urgències i emergències 24 hores.,"Hospital Comarcal Móra d'Ebre, 0     25700
+1     17520
+2     25620
+3     25530
+4     08720
+      ...  
+63    25198
+64    43500
+65    43500
+66    43870
+67    43740
+Name: Codi Postal, Length: 68, dtype: object, MÓRA D'EBRE, Spain","43740 Móra d'Ebre, Tarragona, Spain",41.0867715,0.6381854
